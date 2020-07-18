@@ -55,7 +55,7 @@ minima:
 baseurl: "/toorrepus"
 
 # Build settings
-theme: minima
+theme: jekyll-theme-modernist
 
 plugins:
  - jekyll-feed
