@@ -52,6 +52,8 @@ minima:
 #header_pages:
 # - about.md
 
+baseurl: "/toorrepus"
+
 # Build settings
 theme: minima
 
